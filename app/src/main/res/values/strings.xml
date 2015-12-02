@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="action_settings">Settings</string>
+    <string name="prb_default_symbolic_string">$</string>
+</resources>
